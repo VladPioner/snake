@@ -11,6 +11,9 @@
   <strong>&lt;script src="jquery-3.3.1.min.js" type="text/javascript"&gt;&lt;/script&gt;</strong>
 </li>
 <li>
+Загрузить файлы игры к себе на сайт
+</li>
+<li>
   Подключить js файл игры<br>
   <strong>&lt;script src="snake.js" type="text/javascript"&gt;&lt;/script&gt;</strong>
 </li>
