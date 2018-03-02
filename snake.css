@@ -1,0 +1,31 @@
+div#snake_wrapper{
+    display: inline-block;
+}
+div#snake_time{
+    float: left;
+}
+div#snake_score{
+    float: right;
+}
+
+
+table#snake_table_main{
+    border: 1px solid black;
+}
+
+table#snake_table_main tr{
+    border: none;
+}
+table#snake_table_main td{
+    border: none;
+    width: 8px;
+    height: 8px;
+}
+
+.snake_td{
+    background: red;
+}
+
+.bonus{
+    background: blue;
+}
